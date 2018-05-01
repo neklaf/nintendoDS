@@ -25,3 +25,5 @@ Let's check which partitions we have in our SD card, device name can different:
     # mount -o rw /dev/mmcblk0p1 /media
     # cp -r * /media
     # umount /media
+
+To update you can follow these instructions [Unlimited Upgrade for DSONEi/DSONEi mini](http://eng.supercard.sc/manual/dsone/evolution/znsj.htm)
