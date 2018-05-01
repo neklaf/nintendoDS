@@ -3,6 +3,7 @@ This repository is used just to store NintendoDS One development toolkit
 
 ## Installation notes
 Let's check which partitions we have in our SD card, device name can :
+
     # fdisk -l /dev/mmcblk0
     Disk /dev/mmcblk0: 1.9 GiB, 2013265920 bytes, 3932160 sectors
     Units: sectors of 1 * 512 = 512 bytes
